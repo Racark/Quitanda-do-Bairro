@@ -1,4 +1,4 @@
-function validar () {
+function validar() {
 
     var body = {
         nome : formulario.nome.value,
@@ -26,6 +26,7 @@ function validar () {
     }
 
     alert("Cadastro realizado com sucesso");
+
     
 
 }
